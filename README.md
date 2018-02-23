@@ -9,3 +9,5 @@ On this quick analysis, I filtered the data to select just the winners from each
 It turns out that the popular saying isn't true at all! For all the countries, Finland is the 9th best source of drivers! In the first place, however, a big surprise: Despite Michael Schumacher's meteoric career, Argentina has the best win ratio (in %) of all countries! However, this is clearly an outlier, because despite having 25 drivers racing in Formula 1 throughout the ages, the only   truly successful Argentinian driver was Juan Emanuel Fangio, which won more than half of his races, pushing Argentina's score way higher.
 
 In this repository there are all the files needed to run the code and produce the plot.
+
+Running the code, you will notice Argentina is in the top spot. To check why this (even though if you already know it's due to Fangio's stellar career), run the bestdrivers.r script. On this script we build a plot for checking the drivers with the best win ratio.
