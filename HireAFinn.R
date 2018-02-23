@@ -116,4 +116,3 @@ plt3 + annotation_raster(arg, ymin = 10.5,ymax=11,xmin=0.5,xmax=1.5) +
   annotation_raster(net, ymin = 0.9,ymax=1.3,xmin=20.6,xmax=21.4) +
   annotation_raster(mex, ymin = 0.7,ymax=1.1,xmin=21.6,xmax=22.4) 
 
-
